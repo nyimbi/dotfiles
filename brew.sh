@@ -9,7 +9,7 @@ sudo -v
 while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 
 # Make sure we’re using the latest Homebrew.
-brew update
+port selfupdate
 
 # Upgrade any already-installed formulae.
 brew upgrade --all

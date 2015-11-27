@@ -1,0 +1,6 @@
+#.path
+
+#Add tpo the path (include macports stuff)
+export PATH="/opt/local/bin:/opt/local/sbin:/usr/local/bin:$PATH"
+
+export PYTHONPATH="/Library/Python/2.7/site-packages/:$PYTHONPATH"
