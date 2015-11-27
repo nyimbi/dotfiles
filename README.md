@@ -11,8 +11,8 @@
 - Web tools: Jekyll, Nanoc
 - Of course I am using ohmyz.sh and iTerm2
 - I like Dash (https://kapeli.com/dash)
-- Since I am totally silly I install all my python packages in the system folders, so I set PYTHONPATH (Helps macports install opencv)
-- 
+- Since I am totally silly I install all my python packages in the system folders. so I set PYTHONPATH (Helps macports install opencv)
+- the  .osx seems particularly dangerous. so commented out everything. Enable only what you need
 
 
 ## Installation
